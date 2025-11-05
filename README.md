@@ -1,3 +1,4 @@
 # demo
-this is my first git repository
-auther - Deepanshi dobriyal
+this is my first git repository.
+
+Auther - Deepanshi dobriyal
